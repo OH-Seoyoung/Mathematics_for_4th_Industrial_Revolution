@@ -1,5 +1,5 @@
 # Mathematics for 4th Industrial Revolution (20200901 ~ )
-Study and project for the ' 4th Industrial Revolution and Mathematics ' Course
+- Study and project for the ' 4th Industrial Revolution and Mathematics ' Course
 
 ## Study  
 #### 1. Secret Splitting with SageMath  
