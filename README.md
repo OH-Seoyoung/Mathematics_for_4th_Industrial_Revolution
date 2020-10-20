@@ -6,3 +6,5 @@
 - Secret Splitting, Lagrange equation, Shamir's Secret Sharing  
 #### 2. RSA Algorithm with SageMath  
 - Shift/Caesar Cipher, Substitution Cipher, RSA Algorithm, Euler Theorem, Fermat Theorem  
+#### 3. Gradient_Descent  
+- Learning rate  
