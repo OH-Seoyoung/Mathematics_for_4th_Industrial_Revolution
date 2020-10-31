@@ -8,3 +8,6 @@
 - Shift/Caesar Cipher, Substitution Cipher, RSA Algorithm, Euler Theorem, Fermat Theorem  
 #### 3. Gradient_Descent  
 - Learning rate  
+#### 4. Regression  
+- Visualization of gradient vector field  
+- Linear Regression, Logistic Regression
