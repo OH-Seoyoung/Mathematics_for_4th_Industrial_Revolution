@@ -11,3 +11,8 @@
 #### 4. Regression  
 - Visualization of gradient vector field  
 - Linear Regression, Logistic Regression
+
+#### 5. Multi-Layer Perceptron and Convolutional Neural Network  
+- XOR with MLP  
+- MNIST with MLP and CNN  
+- Overfitting, Lagrange Interpolation  
