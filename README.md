@@ -17,5 +17,5 @@
 - MNIST with MLP and CNN  
 - Overfitting, Lagrange Interpolation  
 
-#### 6. Monte Carlo estimation
+#### 6. Monte Carlo simulation
 - Pi estimation with Monte Carlo method
