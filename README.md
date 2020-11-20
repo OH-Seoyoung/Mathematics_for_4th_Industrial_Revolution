@@ -16,3 +16,6 @@
 - XOR with MLP  
 - MNIST with MLP and CNN  
 - Overfitting, Lagrange Interpolation  
+
+#### 6. Monte Carlo estimation
+- Pi estimation with Monte Carlo method
