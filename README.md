@@ -19,3 +19,6 @@
 
 #### 6. Monte Carlo simulation
 - Pi estimation with Monte Carlo method
+
+#### 7. Call Option Price
+- Monte Carlo Simulation in the Black-Sholes model
