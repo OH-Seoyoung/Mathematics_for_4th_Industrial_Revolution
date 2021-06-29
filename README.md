@@ -1,5 +1,6 @@
-# Mathematics for 4th Industrial Revolution (20200901 ~ 20201212)
+# Mathematics for 4th Industrial Revolution
 - Study and project for the '4th Industrial Revolution and Mathematics' Course
+- Sep. 1, 2020 ~ Dec. 12, 2020
 
 ## Study  
 #### 1. Secret Splitting with SageMath  
